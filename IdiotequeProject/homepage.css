@@ -48,3 +48,25 @@ iframe {
     padding-top: 50px;
 }
 
+/* UPCOMING SHOWS */
+
+.flyers {
+    padding: 25px 25px 25px 25px;
+
+}
+
+
+/*ABOUT */
+
+#bout {
+    font-family: 'Play', sans-serif;
+    font-size: 20px;
+    height: 80%;
+    width: 100%;
+    display: flex;
+    position: fixed;
+    align-items: center;
+    justify-content: center; 
+
+}
+
