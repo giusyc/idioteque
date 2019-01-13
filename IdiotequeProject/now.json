@@ -9,4 +9,4 @@
     { "src": "reach.html", "use": "@now/html-minifier" },
 	{ "src": "homepage.css", "use": "@now/html-minifier" }
       ]
-}
+    }
