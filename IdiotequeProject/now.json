@@ -7,6 +7,11 @@
     { "src": "idioMusic.html", "use": "@now/html-minifier" },
     { "src": "US.html", "use": "@now/html-minifier" },
     { "src": "reach.html", "use": "@now/html-minifier" },
-	{ "src": "homepage.css", "use": "@now/html-minifier" }
+    { "src": "homepage.css", "use": "@now/html-minifier" },
+    { "src": "djinew.jpg", "use": "@now/static" },
+    { "src": "FEB4TH.jpg", "use": "@now/static" },
+    { "src": "HomeImage.jpg", "use": "@now/static" },
+    { "src": "JAN29TH.jpg", "use": "@now/static" },
+    { "src": "VDAY.jpg", "use": "@now/static" }
       ]
     }
