@@ -2,7 +2,7 @@
     "version": 2,
 	"name": "Idioteque",
 	"builds": [
-		{ "src": "home.html", "use": "@now/html-minifier" },
+		{ "src": "index.html", "use": "@now/html-minifier" },
     { "src": "about.html", "use": "@now/html-minifier" },
     { "src": "idioMusic.html", "use": "@now/html-minifier" },
     { "src": "US.html", "use": "@now/html-minifier" },
