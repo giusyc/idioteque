@@ -12,6 +12,6 @@
     { "src": "febshow.jpg", "use": "@now/static" },
     { "src": "HomeImage.jpg", "use": "@now/static" },
     { "src": "janshow.jpg", "use": "@now/static" },
-    { "src": "vday.jpg", "use": "@now/static" }
+    { "src": "vdays.jpg", "use": "@now/static" }
       ]
     }
