@@ -10,8 +10,6 @@
     { "src": "homepage.css", "use": "@now/html-minifier" },
     { "src": "djinew.jpg", "use": "@now/static" },
     { "src": "febshow.jpg", "use": "@now/static" },
-    { "src": "HomeImage.jpg", "use": "@now/static" },
-    { "src": "janshow.jpg", "use": "@now/static" },
-    { "src": "vdays.jpg", "use": "@now/static" }
+    { "src": "HomeImage.jpg", "use": "@now/static" }
       ]
     }
